@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riasad Rion
 
-🚀 **Full Stack Laravel Developer | Vue.js | Livewire | AI Integrations**
+🚀 **Full Stack Laravel Developer | Vue.js | React.js | Livewire | AI Integrations**
 
 I’m a full-time developer with **8+ years of experience** building scalable web applications.  
 I’ve published **40+ Laravel-based projects on CodeCanyon**, focusing on SaaS, marketplaces, and AI tools.
@@ -8,7 +8,7 @@ I’ve published **40+ Laravel-based projects on CodeCanyon**, focusing on SaaS,
 ### 🛠️ Tech Stack
 - Laravel, Livewire, Vue.js, React.js, TailwindCSS  
 - MySQL, PostgreSQL, Redis  
-- REST API & AI API Integrations (OpenAI, Gemini)  
+- REST API & AI API Integrations (OpenAI, Gemini, ElevenLabs, MidJourney, Stable Diffusion, DALL-e 3)  
 - Linux Server Management, VPS, WHM, cPanel 
 
 ### 📈 About Me
