@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rias Adrion
+# 👋 Hi, I'm Riasad Rion
 
 🚀 **Full Stack Laravel Developer | Vue.js | Livewire | AI Integrations**
 
