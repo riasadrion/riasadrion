@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riasad Rion
 
-🚀 **Full Stack Laravel Developer | Vue.js | React.js | Livewire | AI Integrations**
+🚀 **Full Stack Laravel Developer | Vue.js | React.js | Livewire | AI Integrations | Vibe Coding Expert**
 
 I’m a full-time developer with **8+ years of experience** building scalable web applications.  
 I’ve published **40+ Laravel-based projects on CodeCanyon**, focusing on SaaS, marketplaces, and AI tools.
