@@ -2,8 +2,7 @@
 
 🚀 **Full Stack Laravel Developer | Vue.js | React.js | Livewire | AI Integrations | Vibe Coding Expert**
 
-I’m a full-time developer with **8+ years of experience** building scalable web applications.  
-I’ve published **40+ Laravel-based projects on CodeCanyon**, focusing on SaaS, marketplaces, and AI tools.
+👋 Hi! I’m a Full Stack Laravel Developer with 𝟖+ 𝐲𝐞𝐚𝐫𝐬 of experience, specializing in Laravel, Vue.js, & Livewire. I build scalable 🚀 𝐒𝐚𝐚𝐒 MVPs, APIs, and marketplaces with clean architecture and 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 code used by real users.
 
 ### 🛠️ Tech Stack
 - Laravel, Livewire, Vue.js, React.js, TailwindCSS  
@@ -12,7 +11,6 @@ I’ve published **40+ Laravel-based projects on CodeCanyon**, focusing on SaaS,
 - Linux Server Management, VPS, WHM, cPanel 
 
 ### 📈 About Me
-💼 CodeCanyon Author – [wStacks Portfolio](https://codecanyon.net/user/wstacks/portfolio)  
 📂 GitHub – [github.com/riasadrion](https://github.com/riasadrion)  
 🌐 Website – [wstacks.com](https://wstacks.com)
 
