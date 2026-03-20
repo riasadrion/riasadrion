@@ -7,7 +7,7 @@ I’m a Full Stack Laravel Developer with 𝟖+ 𝐲𝐞𝐚𝐫𝐬 of experien
 ### 🛠️ Tech Stack
 - Laravel, Livewire, Vue.js, React.js, TailwindCSS  
 - MySQL, PostgreSQL, Redis  
-- REST API & AI API Integrations (OpenAI, Gemini, ElevenLabs, MidJourney, Stable Diffusion, DALL-e 3)  
+- REST API & AI API Integrations (Claude, OpenAI, Gemini, ElevenLabs, MidJourney, Stable Diffusion, DALL-e 3)  
 - Linux Server Management, VPS, WHM, cPanel 
 
 ### 📈 About Me
